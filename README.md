@@ -19,4 +19,4 @@ https://github.com/yulia-2008/nycable_frontend.
 
 
 **Languages and Tools**:
-![Ruby](https://vectorified.com/images/ruby-icon-15.png)
+![Ruby](https://www.ruby-lang.org/en/)
