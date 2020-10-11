@@ -19,5 +19,6 @@ It's going to collect all info about internet & TV providers in NY, area of cove
 
 
 :point_right: **Languages and Tools**:
+--------------------------------------
 ![languages](https://github.com/yulia-2008/yulia-2008/blob/main/icon_SQL.jpg)
 
