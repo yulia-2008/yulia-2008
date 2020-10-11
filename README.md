@@ -19,4 +19,5 @@ https://github.com/yulia-2008/nycable_frontend.
 
 
 **Languages and Tools**:
-![Ruby](http://www.xmldocx.com/img/icon_lang_ruby.png)
+
+######![Ruby](http://www.xmldocx.com/img/icon_lang_ruby.png)######
