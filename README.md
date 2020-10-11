@@ -24,4 +24,4 @@
 ![languages](https://github.com/yulia-2008/yulia-2008/blob/main/icon_SQL.jpg)
 
 
-![stats](https://github.com/yulia-2008/github-stats/blob/master/generated/overview.svg)
+![stats](https://github.com/yulia-2008/github-stats/blob/master/generated/overview.svg) ![languages_use_stats](https://github.com/yulia-2008/github-stats/blob/master/generated/languages.svg)
