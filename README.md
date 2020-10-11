@@ -1,4 +1,5 @@
 ![Image](https://ibb.co/2jCK854)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 Hello . I'm Software Engineer currently graduated from **Flatiron School**. I'm pashioned about programming and learning new technologies. 
