@@ -19,10 +19,5 @@ https://github.com/yulia-2008/nycable_frontend.
 
 
 **Languages and Tools**:
+![languages](https://github.com/yulia-2008/yulia-2008)
 
-![Ruby](http://www.xmldocx.com/img/icon_lang_ruby.png)
-![Rails](https://www.shareicon.net/data/128x128/2015/08/30/93005_on_395x512.png)
-![JS](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png)
-![CSS](http://icons.iconarchive.com/icons/icons8/ios7/128/Programming-Css-icon.png)
-![JS React](http://www.iconninja.com/files/332/243/605/react-js-react-logo-js-icon.png)
-![HTML](https://hdg.gallerycdn.vsassets.io/extensions/hdg/live-html-previewer/0.3.0/1504668184308/Microsoft.VisualStudio.Services.Icons.Default)
