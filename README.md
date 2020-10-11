@@ -9,7 +9,7 @@ It's going to collect all info about internet & TV providers in NY, area of cove
 
 
 
-                     ## 📬 Let's get in touch
+ ## 📬 Let's get in touch
 
 **Blog**: https://medium.com/@juliana.ny2008
 
@@ -18,7 +18,8 @@ It's going to collect all info about internet & TV providers in NY, area of cove
 **My projects demos**: https://www.youtube.com/channel/UCzB3AfaXNvOFHbqPxC9i7ow
 
 
-                    :point_right: **Languages and Tools**:
+
+ :point_right: **Languages and Tools**:
 --------------------------------------
 ![languages](https://github.com/yulia-2008/yulia-2008/blob/main/icon_SQL.jpg)
 
