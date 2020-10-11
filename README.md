@@ -18,3 +18,5 @@ https://github.com/yulia-2008/nycable_frontend.
 **My projects demos**: https://www.youtube.com/channel/UCzB3AfaXNvOFHbqPxC9i7ow
 
 
+**Languages and Tools**:
+![Ruby](https://vectorified.com/images/ruby-icon-15.png)
