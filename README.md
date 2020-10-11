@@ -9,7 +9,7 @@ I’m currently working on nycable project (https://github.com/yulia-2008/nycabl
 
 📬 Let's get in touch
 
-Blog: https://medium.com/@juliana.ny2008
+Blogs: https://medium.com/@juliana.ny2008
 
 LinkedIn: https://www.linkedin.com/in/yuliya-yurkevich-b82a591b8/
 
