@@ -22,4 +22,3 @@
  :point_right: **Languages and Tools**:
 --------------------------------------
 ![languages](https://github.com/yulia-2008/yulia-2008/blob/main/icon_SQL.jpg)
-
