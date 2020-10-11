@@ -2,10 +2,10 @@
 
 
 
-Hello . I'm Software Engineer currently graduated from **Flatiron School**. I'm pashioned about programming and learning new technologies. 
-I’m currently working on **NYCable** project https://github.com/yulia-2008/nycable_frontend.
-
+Hello . I'm Yuliya, Software Engineer currently graduated from **Flatiron School**. I'm pashioned about programming and learning new technologies. 
+I’m currently working on **NYCable** project. 
 It's going to collect all info about internet & TV providers in NY, area of coverage, plans, and available technicians as well as reviews and rating for providers and technicians.
+https://github.com/yulia-2008/nycable_frontend.
 
 
 
