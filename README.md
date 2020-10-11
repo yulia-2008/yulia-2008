@@ -1,7 +1,7 @@
 ![Yuliya](https://github.com/yulia-2008/yulia-2008/blob/main/0-02-04-267bea2002925f758de3b006611f80669a421e7e9f1a44b19009d649cf009d.jpg)
 
 
- ## About 
+ ##  :woman_scientist: About 
 
 #####Hello. :vulcan_salute: I'm Yuliya, Software Engineer currently graduated from **Flatiron School**. 
 #####I'm pashioned about programming and learning new technologies. 
