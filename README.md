@@ -27,7 +27,7 @@ I’m currently working on **NYCable** project. It's going to collect all info a
 <br>
 
 <div position="relative">
- <div margin="0" position="absolute" top="50%" >
+ <div  position="absolute"  >
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yulia-2008&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulia-2008&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   </div>
