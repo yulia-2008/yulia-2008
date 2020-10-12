@@ -24,3 +24,6 @@
 ![languages](https://github.com/yulia-2008/yulia-2008/blob/main/icon_SQL.jpg)
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yulia-2008)](https://github.com/anuraghazra/github-readme-stats)
+
+
