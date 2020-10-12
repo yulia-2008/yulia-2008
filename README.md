@@ -24,5 +24,5 @@
 ![languages](https://github.com/yulia-2008/yulia-2008/blob/main/icon_SQL.jpg)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yulia-2008&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulia-2008&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yulia-2008&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulia-2008&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
