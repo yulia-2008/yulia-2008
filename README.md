@@ -12,7 +12,7 @@ I’m currently working on NYCable project. It's going to collect all info about
 <h2 align="center" > 📬 Let's get in touch </h2>        
  
 
-**Blog**: https://medium.com/@juliana.ny2008
+**Blog**: https://juliana-ny2008.medium.com/
 
 **LinkedIn**: https://www.linkedin.com/in/yuliya-yurkevich-b82a591b8/
 
