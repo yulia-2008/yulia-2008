@@ -2,15 +2,17 @@
 
 
  <h2 align="center" >  :woman_scientist: About </h2>
-<h4> Hello. :vulcan_salute: I'm Yuliya, Software Engineer currently graduated from **Flatiron School**. I'm passionate about programming and learning new technologies. <br>
-I just finished working on NYCable project. http://www.nycable.net   It is the Info-Portal about internet & TV providers in NY, area of coverage, plans, and available technicians as well as reviews and rating for providers and technicians. <br>:point_right: https://github.com/yulia-2008/nycable_frontend.
+<h4> Hello. :vulcan_salute: Iam Yuliya, Software Engineer graduated from **Flatiron School**. I'm passionate about programming and learning new technologies. <br>
+One of my most recent projects is NYCABLE. http://www.nycable.net   It is the Info-Portal about internet & TV providers in NY, area of coverage, plans, and available technicians as well as reviews and rating for providers and technicians. <br>:point_right: https://github.com/yulia-2008/nycable_frontend.
  </h4>
-
+<h4> I am always working on expanding my skill, recently I have started working with React Native and building my firsts android application wich I hope will be on Play Store soon. </h4>
  <br>
 
      
 <h2 align="center" > 📬 Let's get in touch </h2>        
- 
+
+
+**Portfolio**: https://yuliya-yu.com/
 
 **Blog**: https://juliana-ny2008.medium.com/
 
