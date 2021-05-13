@@ -23,7 +23,7 @@ One of my most recent projects is NYCABLE. http://www.nycable.net   It is an Inf
 <h2 align="center" > :point_right: Languages and Tools </h2>
 
 ![languages](https://github.com/yulia-2008/yulia-2008/blob/main/icon_SQL.jpg)
-https://github.com/yulia-2008/yulia-2008/blob/main/icon_SQL.jpg
+![languages](https://github.com/yulia-2008/yulia-2008/blob/main/icons-2.jpg)
 <br>
 
 
